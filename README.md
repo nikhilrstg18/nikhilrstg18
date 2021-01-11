@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with .Net 5
 - 💬 Ask me about CSS | HTML | Javascript | Angular | React | AWS | ASP.NET
 - 📫 How to reach me: 
-      [![twitter][https://i.imgur.com/i0kyovi.png]][https://twitter.com/rustagi_nikhil] 
+      [![alt text][https://i.imgur.com/i0kyovi.png]][https://twitter.com/rustagi_nikhil] 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I started my carrier as QA, then moved to Dev to Solutions Architect
