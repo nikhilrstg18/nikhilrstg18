@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:<br />
   - [![@rustagi_nikhil](https://github.com/nikhilrstg18/nikhilrstg18/blob/main/twitter_icon.png)](https://twitter.com/rustagi_nikhil)
 - 😄 Pronouns: Nick
-- ⚡ Fun fact: My perfect day would start with my :heart: | :musical_tone: and end with :family: 
+- ⚡ Fun fact: My perfect day would start with my :heart: | :musical_note: and end with :family: 
