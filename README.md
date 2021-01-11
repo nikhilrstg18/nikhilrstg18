@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on multiple projects online
 - 🤔 I’m looking for help with .Net 5
 - 💬 Ask me about CSS | HTML | Javascript | Angular | React | AWS | ASP.NET
-- 📫 How to reach me: 
-      [![alt text](https://github.com/nikhilrstg18/nikhilrstg18/blob/main/twitter_icon.png)](https://twitter.com/rustagi_nikhil) 
+- 📫 How to reach me:\   [![alt text](https://github.com/nikhilrstg18/nikhilrstg18/blob/main/twitter_icon.png)](https://twitter.com/rustagi_nikhil) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I started my carrier as QA, then moved to Dev to Solutions Architect
