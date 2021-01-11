@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on atom, gmex and folio app
-- 🌱 I’m currently learning [.NET 5](https://dotnet.microsoft.com/download), [Web App and Microservices](https://dotnet.microsoft.com/apps/aspnet) | [React](https://reactjs.org/) | [Redux](https://react-redux.js.org/) | [Angular](https://angular.io/) , [RxJs](https://www.learnrxjs.io/) , [NgRx](https://ngrx.io/) | [NodeJS](https://nodejs.org/) is next on my list.. 
+- 🌱 I’m currently learning [.NET 5](https://dotnet.microsoft.com/download), [Web App and Microservices](https://dotnet.microsoft.com/apps/aspnet) | [React](https://reactjs.org/) , [Redux](https://react-redux.js.org/) | [Angular](https://angular.io/) , [RxJs](https://www.learnrxjs.io/) , [NgRx](https://ngrx.io/) | [NodeJS](https://nodejs.org/) is next on my list.. 
 - 👯 I’m looking to collaborate on multiple projects online 
 - 💬 Ask me about about my travel diaries and next place 🛫🚀🏍 on my list. 
 - 📫 How to reach me:<br />
