@@ -30,7 +30,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrstg18&layout=compact&hide=html&theme=dark" alt="nikhilrstg18" />
 </div>
 <br/>
+
 ### Repos
+
 <div>
 <a href="https://github.com/nikhilrstg18/folio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrstg18&repo=folio&theme=dark" />
