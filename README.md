@@ -1,13 +1,10 @@
 <img align="right" src="https://github.com/nikhilrstg18/nikhilrstg18/blob/main/nik_gh.jpg" alt="Illustration of Nikhil speaking at a conference/webinar " width=200px height=350px/>
 
-
 ### Hi, I'm Nikhil 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on folio and wisdom app
-- 🌱 I’m currently learning [.NET 5](https://dotnet.microsoft.com/download), [Web App and Microservices](https://dotnet.microsoft.com/apps/aspnet) | [React](https://reactjs.org/) , [Redux](https://react-redux.js.org/) | [Angular](https://angular.io/) , [RxJs](https://www.learnrxjs.io/) , [NgRx](https://ngrx.io/) | [NodeJS](https://nodejs.org/) is next on my list.. 
-- 👯 I’m looking to collaborate on multiple projects online 
+- 🌱 I’m currently learning [Web App, Web API and Microservices](https://dotnet.microsoft.com/apps/aspnet) on [.NET](https://dotnet.microsoft.com/download), proficient in [React](https://reactjs.org/) • [Redux](https://react-redux.js.org/) • [Angular](https://angular.io/) • [RxJs](https://www.learnrxjs.io/) • [NgRx](https://ngrx.io/) and [NodeJS](https://nodejs.org/) is next on my list... 
 - 💬 Ask me about my travel diaries and next place 🛫🚀🏍 on my list. 
 - 📫 How to reach me:<br />
   - [![Twitter](https://img.shields.io/twitter/follow/rustagi_nikhil?label=Follow%20%40rustagi_nikhil&style=social)](https://twitter.com/rustagi_nikhil)
@@ -28,16 +25,4 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrstg18&layout=compact&hide=html&bg_color=30,7f00ff,e100ff&title_color=fff&text_color=fff" alt="nikhilrstg18" />
   -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrstg18&layout=compact&hide=html&theme=dark" alt="nikhilrstg18" />
-</div>
-<br/>
-
-### Repos
-
-<div>
-<a href="https://github.com/nikhilrstg18/folio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrstg18&repo=folio&theme=dark" />
-</a>
-<a href="https://github.com/nikhilrstg18/insights">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilrstg18&repo=insights&theme=dark" />
-</a>
 </div>
