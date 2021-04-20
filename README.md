@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/nikhilrstg18/nikhilrstg18/blob/main/nik_gh.jpg" alt="Illustration of Nikhil speaking at a conference/webinar " width=300px height=520px/>
+<img align="right" src="https://github.com/nikhilrstg18/nikhilrstg18/blob/main/nik_gh.png" alt="Illustration of Nikhil speaking at a conference/webinar " width=400px height=520px/>
 
 ### Hi, I'm Nikhil 👋
 
